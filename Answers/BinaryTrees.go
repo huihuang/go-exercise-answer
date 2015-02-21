@@ -1,3 +1,5 @@
+/* Exercise: Equivalent Binary Trees */
+
 package main
 
 import (
